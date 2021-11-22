@@ -7,11 +7,25 @@
     border: none;
 }
 
-#logo {
-    font-family: "Nosifer";
-}
 /* No copy paste intended, I want to use Helvetica and Arial replaces it well if needed to */
 body {
     font-family: Helvetica, Arial, sans-serif;
     font-weight: 500;
+    color: darkslategray; /* possibly change this to black later */
 }
+
+/* Logo and heading */
+
+#logo {
+    font-family: "Nosifer", Helvetica;
+    float: left;
+    color: black;
+    font-size: 300%; /* when more of the site is done check how it looks smaller and larger */
+}
+
+h2 {
+    font-family: Helvetica, sans-serif; /* when everything is in place try nosifer to see how it looks */
+    text-transform: uppercase;
+    color: black;
+}
+
