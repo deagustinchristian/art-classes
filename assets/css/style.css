@@ -70,48 +70,18 @@ h2 {
     clear: both;
 }
 
-#floating-square1, #floating-square1 h2 {
-    color: rgb(8, 8, 8);
-}
-
 #floating-square2, #floating-square2 h2 {
     color: rgb(8, 8, 8);
 }
 
-#floating-square3, #floating-square3 h2 {
-    color: rgb(8, 8, 8);
-}
-
-#floating-square1 {
-    font-size: 130%;
-    font-family: Helvetica, Arial;
-    text-transform: uppercase;
-    text-align: center;
-
-    width: 300px;
-    height: 200px;
-
-    padding-top: 40px; /* check again later and decide if to increase */
-    padding-left: 10px;
-
-    background-color: #ffffff10; /* this code here i got from Baby Wolf Codes on Instagram */
-    backdrop-filter: blur(12px);
-    -webkit-backdrop-filter: blur(12px);
-
-    bottom: 200px;
-    left: 150px;
-
-    position: absolute;
-}
-
 #floating-square2 {
-    font-size: 130%;
+    font-size: 110%;
     font-family: Helvetica, Arial;
     text-transform: uppercase;
     text-align: center;
 
-    width: 300px;
-    height: 200px;
+    width: 500px;
+    height: 150px;
 
     padding-top: 40px;
     padding-left: 10px;
@@ -122,28 +92,6 @@ h2 {
 
     bottom: 200px;
     left: 550px;
-
-    position: absolute;
-}
-
-#floating-square3 {
-    font-size: 130%;
-    font-family: Helvetica, Arial;
-    text-transform: uppercase;
-    text-align: center;
-
-    width: 300px;
-    height: 200px;
-
-    padding-top: 40px;
-    padding-left: 10px;
-
-    background-color: #ffffff10; /* this code here i got from Baby Wolf Codes on Instagram */
-    backdrop-filter: blur(12px);
-    -webkit-backdrop-filter: blur(12px);
-
-    bottom: 200px;
-    left: 950px;
 
     position: absolute;
 }
