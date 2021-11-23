@@ -91,7 +91,7 @@ h2 {
     -webkit-backdrop-filter: blur(12px);
 
     bottom: 200px;
-    left: 550px;
+    left: 425px;
 
     position: absolute;
 }
@@ -101,8 +101,46 @@ h2 {
 #prints {
     text-align: center;
     font-size: 200%;
-    padding-top: 30px;
+    margin: 40px 0;
     font-family: Helvetica, Arial;
     color: rgb(8, 8, 8);
+}
 
+#print-info {
+    text-align: center;
+
+}
+
+figure.item {
+    /* To correctly align image, regardless of content height: */
+    vertical-align: top;
+    display: inline-block;
+    /* To horizontally center images and caption */
+    text-align: center;
+    /* The width of the container also implies margin around the images. */
+    width: 300px;
+}
+img {
+    width: 250px;
+    height: 250px;
+    background-color: grey;
+}
+.caption {
+    /* Make the caption a block so it occupies its own line. */
+    display: block;
+}
+
+#right-photo {
+    float: right;
+    padding: 30px;
+}
+
+#left-photo {
+    float: left;
+    padding: 30px;
+}
+
+#center-photo {
+    text-align: center;
+    padding: 30px;
 }
