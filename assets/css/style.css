@@ -62,9 +62,35 @@ h2 {
 
 /* main image */
 
+#floating-square1, #floating-square1 h2 {
+    color: rgb(8, 8, 8);
+}
+
 #colorexplosion-image {
     height: 600px;
     width: 100%;
-    background: url("../images/colorexplosion2.jpeg") no-repeat center center;
+    background: url("../images/colorexplosion2.jpeg") no-repeat center center; /* image file was to large so had to resize it to 2500px wide */
+    clear: both;
 }
 
+#floating-square1 {
+    font-size: 130%;
+    font-family: Helvetica, Arial;
+    text-transform: uppercase;
+    text-align: center;
+
+    width: 300px;
+    height: 200px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: #ffffff10; /* this code here i got from Baby Wolf Codes on Instagram */
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+
+    bottom: 150px;
+    left: 150px;
+
+    position: absolute;
+}
