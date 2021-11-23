@@ -60,3 +60,11 @@ h2 {
     works when About us is upp and running */
 }
 
+/* main image */
+
+#colorexplosion-image {
+    height: 600px;
+    width: 100%;
+    background: url("../images/colorexplosion2.jpeg") no-repeat center center;
+}
+
