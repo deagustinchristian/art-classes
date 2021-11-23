@@ -21,6 +21,7 @@ body {
     float: left;
     color: black;
     font-size: 300%; /* when more of the site is done check how it looks smaller and larger */
+    padding-left: 30px;
 }
 
 h2 {
