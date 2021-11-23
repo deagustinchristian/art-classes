@@ -29,3 +29,34 @@ h2 {
     color: black;
 }
 
+/* nav menu right links */
+
+#menu-right {
+    font-size: 110%;
+}
+
+#menu-right, #logo {
+    line-height: 75px; /* check later how 150px looks */
+}
+
+#menu-right li {
+    float: right;
+    list-style-type: none;
+    margin-right: 50px;
+}
+
+#menu-right a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: inherit;
+}
+
+#menu-right a:hover {
+    color: lightcoral; /* check color choice when background pic is in place */
+}
+
+.active {
+    color: lightcoral; /* if we change the above color must change this to same test to see that it 
+    works when About us is upp and running */
+}
+
