@@ -30,7 +30,7 @@ h2 {
     color: black;
 }
 
-/* nav menu right links */
+/* navigation menu right links */
 
 #menu-right {
     font-size: 110%;
@@ -61,7 +61,14 @@ h2 {
     works when About us is upp and running */
 }
 
-/* main image */
+/* hero image, main image */
+
+#colorexplosion-image {
+    height: 600px;
+    width: 100%;
+    background: url("../images/colorexplosion2.jpeg") no-repeat center center; /* image file was to large so had to resize it to 2500px wide */
+    clear: both;
+}
 
 #floating-square1, #floating-square1 h2 {
     color: rgb(8, 8, 8);
@@ -75,13 +82,6 @@ h2 {
     color: rgb(8, 8, 8);
 }
 
-#colorexplosion-image {
-    height: 600px;
-    width: 100%;
-    background: url("../images/colorexplosion2.jpeg") no-repeat center center; /* image file was to large so had to resize it to 2500px wide */
-    clear: both;
-}
-
 #floating-square1 {
     font-size: 130%;
     font-family: Helvetica, Arial;
@@ -91,14 +91,14 @@ h2 {
     width: 300px;
     height: 200px;
 
-    padding-top: 40px;
+    padding-top: 40px; /* check again later and decide */
     padding-left: 10px;
 
     background-color: #ffffff10; /* this code here i got from Baby Wolf Codes on Instagram */
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
 
-    bottom: 150px;
+    bottom: 200px;
     left: 150px;
 
     position: absolute;
@@ -120,7 +120,7 @@ h2 {
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
 
-    bottom: 150px;
+    bottom: 200px;
     left: 550px;
 
     position: absolute;
@@ -142,7 +142,7 @@ h2 {
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
 
-    bottom: 150px;
+    bottom: 200px;
     left: 950px;
 
     position: absolute;
