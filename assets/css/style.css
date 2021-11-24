@@ -70,6 +70,42 @@ h2 {
     clear: both;
 }
 
+#floating-square1, #floating-square1 h2 {
+    color: rgb(8, 8, 8);
+    padding-bottom: 30px;
+}
+
+#floating-square1 {
+    font-size: 100%;
+    font-family: Helvetica, Arial;
+    text-transform: uppercase;
+    text-align: center;
+
+    width: 500px;
+    height: 150px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: #ffffff10; /* this code here i got from Baby Wolf Codes on Instagram */
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+
+    bottom: 200px;
+    left: 425px;
+
+    position: absolute;
+}
+
+/* about us background image and text */
+
+#aboutus-image {
+    height: 600px;
+    width: 50%;
+    background: url("../images/aboutusbackground.jpeg") no-repeat center center; /* image file was to large so had to resize it to 2500px wide */
+    clear: both;
+}
+
 #floating-square2, #floating-square2 h2 {
     color: rgb(8, 8, 8);
     padding-bottom: 30px;
@@ -91,7 +127,7 @@ h2 {
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
 
-    bottom: 200px;
+    bottom: 100px;
     left: 425px;
 
     position: absolute;
