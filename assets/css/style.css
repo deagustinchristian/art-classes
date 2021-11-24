@@ -97,11 +97,19 @@ h2 {
 }
 
 /* prints section */
+/* 
+#prints-backgroundimage {
+    background: url("../images/printsbackground.jpeg") no-repeat center center; 
+    height: 600px;
+    width: 100%;
+    clear: both;
+}
+this is not looking good */
 
 #prints {
     text-align: center;
     font-size: 200%;
-    margin: 40px 0;
+    margin: 100px 0;
     font-family: Helvetica, Arial;
     color: rgb(8, 8, 8);
 }
@@ -141,6 +149,55 @@ img {
 }
 
 #center-photo {
+    text-align: center;
+    padding: 30px;
+}
+
+/* Paintings section */
+
+#paintings {
+    text-align: center;
+    font-size: 200%;
+    margin: 100px 0;
+    font-family: Helvetica, Arial;
+    color: rgb(8, 8, 8);
+}
+
+#paintings-info {
+    text-align: center;
+
+}
+
+figure.item {
+    /* To correctly align image, regardless of content height: */
+    vertical-align: top;
+    display: inline-block;
+    /* To horizontally center images and caption */
+    text-align: center;
+    /* The width of the container also implies margin around the images. */
+    width: 300px;
+}
+img {
+    width: 250px;
+    height: 250px;
+    background-color: grey;
+}
+.caption {
+    /* Make the caption a block so it occupies its own line. */
+    display: block;
+}
+
+#rightpaintings-photo {
+    float: right;
+    padding: 30px;
+}
+
+#leftpaintings-photo {
+    float: left;
+    padding: 30px;
+}
+
+#centerpaintings-photo {
     text-align: center;
     padding: 30px;
 }
