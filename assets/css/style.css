@@ -160,3 +160,19 @@ section {
     /* when the rest is in place i try to style it here */
 }
 
+/* table */
+
+table {
+    width: 100%;
+}
+
+table th {
+    background: black;
+    color: white;
+    padding: 10px;
+}
+
+table td {
+    border-bottom: 1px solid black;
+    padding: 10px;
+}
