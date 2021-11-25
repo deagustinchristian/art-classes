@@ -125,4 +125,15 @@ section {
     padding: 50px;
 }
 
+/* style photos */
 
+.person {
+    width: 250px;
+    padding-right: 5px;
+    display: inline-block;
+}
+
+.person-image img {
+    border-radius: 30%; /* the higher the value the rounder it gets looks pretty cool now decide later */
+    max-width: 200px;   /* check later to see if bigger size looks better */
+}
