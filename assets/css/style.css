@@ -38,6 +38,7 @@ h2 {
 
 #menu-right, #logo {
     line-height: 75px; /* check later how 150px looks */
+    position: fixed;
 }
 
 #menu-right li {
@@ -101,7 +102,7 @@ h2 {
 
 #aboutus-image {
     height: 600px;
-    width: 50%;
+    width: 100%;
     background: url("../images/aboutusbackground.jpeg") no-repeat center center; /* image file was to large so had to resize it to 2500px wide */
     clear: both;
 }
@@ -127,7 +128,7 @@ h2 {
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
 
-    bottom: 100px;
+    bottom: 0px;
     left: 425px;
 
     position: absolute;
