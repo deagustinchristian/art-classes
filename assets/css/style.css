@@ -145,3 +145,18 @@ section {
 .person-description {
     font-size: 12px;
 }
+
+/* classes info*/
+
+.classes {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+/* columns */
+
+.column {
+    /* when the rest is in place i try to style it here */
+}
+
