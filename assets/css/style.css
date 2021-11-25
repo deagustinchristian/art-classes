@@ -137,3 +137,11 @@ section {
     border-radius: 30%; /* the higher the value the rounder it gets looks pretty cool now decide later */
     max-width: 200px;   /* check later to see if bigger size looks better */
 }
+
+.person-name {
+    font-size: 14px;
+}
+
+.person-description {
+    font-size: 12px;
+}
