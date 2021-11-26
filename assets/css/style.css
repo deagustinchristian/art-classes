@@ -100,6 +100,7 @@ h2 {
     color: rgb(8, 8, 8);
     padding-bottom: 30px;
 }
+
 /* sections reset */
 section {
     margin: 0 auto;
@@ -155,7 +156,7 @@ section {
     /* when the rest is in place i try to style it here */
 }
 
-/* table */
+/* Classes table */
 
 table {
     width: 100%;
