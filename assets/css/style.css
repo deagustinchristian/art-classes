@@ -125,7 +125,7 @@ section {
     letter-spacing: 3px;
 }
 
-/* style photos */
+/* style text and photos teachers */
 
 .person {
     width: 250px;
@@ -202,12 +202,19 @@ input {
     color: lightcoral;
 }
 
-/* footer with contact us and social media link */
+/* footer with contact us and social media links */
 
 footer {
     background-color: gray;
     width: 100%;
     padding: 100px 0;
     color: white;
+}
+
+.footer-contact li {
+    font-size: 110%;
     text-align: center;
+    list-style-type: none;
+    margin-right: 50px;
+    text-decoration: none;
 }
