@@ -89,18 +89,13 @@ h2 {
 
     padding-top: 40px;
     padding-left: 10px;
-    margin-top:250px;
+    margin-top: 250px;
     
     background-color: #ffffff10; /* this code here i got from Baby Wolf Codes on Instagram */
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
-    /*
-    bottom: 200px;
-    left: 425px;
-
-    position: absolute;
-    */
 }
+
 .floating-square1, .floating-square1 h2 {
     color: rgb(8, 8, 8);
     padding-bottom: 30px;
