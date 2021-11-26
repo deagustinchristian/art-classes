@@ -203,7 +203,7 @@ input {
 footer {
     background-color: gray;
     width: 100%;
-    padding: 100px 0;
+    padding: 20px 0;
     color: white;
 }
 
@@ -214,4 +214,20 @@ footer {
     margin-right: 50px;
     text-decoration: none;
     letter-spacing: 1px;
+}
+
+#social-links {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.social-networks li {
+    display: inline;
+}
+
+.social-networks i {
+    color: rgb(252, 252, 252);
+    margin-right: 50px;
+    font-size: 150%;
+    padding: 5%;
 }
