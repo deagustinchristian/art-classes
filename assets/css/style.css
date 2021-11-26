@@ -5,7 +5,7 @@
     margin: 0;
     padding: 0;
     border: none;
-}
+} 
 
 body {
     font-family: Helvetica, Arial, sans-serif;
@@ -203,14 +203,15 @@ input {
 footer {
     background-color: gray;
     width: 100%;
-    padding: 20px 0;
+    padding: 10px 0;
     color: white;
 }
 
-.footer-contact li {
+.footer-contact {
     font-size: 110%;
     text-align: center;
     list-style-type: none;
+    margin-top: 20px;
     margin-right: 50px;
     text-decoration: none;
     letter-spacing: 1px;
@@ -226,7 +227,7 @@ footer {
 }
 
 .social-networks i {
-    color: rgb(252, 252, 252);
+    color: lightcoral;
     margin-right: 50px;
     font-size: 150%;
     padding: 5%;
