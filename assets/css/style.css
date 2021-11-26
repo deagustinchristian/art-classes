@@ -192,10 +192,13 @@ input {
     width: 200px;
 }
 
-input [type="submit"] {
+.sign-up {
     padding: 10px;
     background: black;
     color: white;
     width: 221px;
 }
 
+.sign-up:hover {
+    color: lightcoral;
+}
