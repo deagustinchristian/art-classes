@@ -201,3 +201,13 @@ input {
 .sign-up:hover {
     color: lightcoral;
 }
+
+/* footer with contact us and social media link */
+
+footer {
+    background-color: gray;
+    width: 100%;
+    padding: 100px 0;
+    color: white;
+    text-align: center;
+}
