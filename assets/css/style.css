@@ -279,5 +279,6 @@ footer {
         clear: left;
         float: left;
         text-align: center;
+        padding-left: 30px;
     }
 }
