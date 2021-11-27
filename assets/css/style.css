@@ -198,37 +198,80 @@ input {
     color: lightcoral;
 }
 
-/* footer with contact us and social media links */
+/* contact us */
 
-footer {
-    background-color: gray;
-    width: 100%;
-    padding: 10px 0;
-    color: white;
-}
-
-.footer-contact {
+.contact {
     font-size: 110%;
     text-align: center;
     list-style-type: none;
     margin-top: 20px;
-    margin-right: 50px;
-    text-decoration: none;
     letter-spacing: 1px;
 }
 
-#social-links {
-    margin-top: 50px;
+/* footer social media  below code is from Love running, couldnt figure out why my code showed small black lines between the icons*/
+
+footer {
+    height: 150px;
+    background-color: black;
+
+}
+
+.social-networks {
     text-align: center;
 }
 
-.social-networks li {
+.social-networks > li {
     display: inline;
 }
 
 .social-networks i {
-    color: lightcoral;
-    margin-right: 50px;
-    font-size: 150%;
+    font-size: 160%;
+    margin: 1%;
     padding: 5%;
+    color: lightcoral;
+}
+
+/* For larger to medium screens size from 1200px wide and down */
+@media screen and (max-width: 1200px) {
+    #about-us {
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+        padding: 30px 0;
+    }
+
+    .about {
+        padding: 30px 0;
+        margin: 0;
+    }
+
+    .about-text {
+        width: 100%;
+        float: left;
+        padding: 30px 0;
+    }
+
+    .person {
+        clear: both;
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
+    .person, .person-image, .person-name, .person-description {
+        text-align: center;
+        padding: 5px 0px;
+    }
+}
+
+/* For medium screen sizes from 950px wide and down */
+@media screen and (max-width: 950px) {
+
+    .navi-menu, .logo, .navi-right {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
 }
