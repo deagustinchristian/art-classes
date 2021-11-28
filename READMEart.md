@@ -13,7 +13,7 @@ Art Classes is a website for anyone interested in either learning how to make be
   - The full responsive navigation bar directs the user to the About Us section, Classes & Sign Up section and to the Contact Us and social media links section of the website.
   - This allows the user to navigate the website fast and easy without ever having to leave the website except for the socisl media links, those open in a new tab. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Nav Bar](https://github.com/deagustinchristian/art-classes/blob/f61a8e2c163d60a2e39bd1f44e431d63e61a1cfd/assets/images/Nav%20bar%20ART%20CLASSES.jpeg)
 
 - __The landing page image__
 
