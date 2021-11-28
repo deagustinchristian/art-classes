@@ -354,7 +354,7 @@ footer {
     .menu-right {
         font-weight: bolder;
         font-size: 7px;
-        margin-right: 3px;
+        padding-left: 65px;
     }
 
     #landingpage-image, #about-us, #classes {
