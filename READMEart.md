@@ -20,14 +20,14 @@ Art Classes is a website for anyone interested in either learning how to make be
   - The landing page includes a background image with text overlay to welcome the visitor and let them now what this website is about.
   - This section introduces the user to ART CLASSES and draws them in with a stunning background image.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Landing Page](https://github.com/deagustinchristian/art-classes/blob/176f1e6faab727d74b860d1fca00d7083f8e0b0b/assets/images/Art%20classes%20landing%20page.jpeg)
 
 - __About Us__
 
   - The About Us section allows the user to briefly get to know each of the teachers and see what their specialties are. 
   - Lovely profile pictures of each teacher along with a small description of each one will leave let the user know that Art Classes has something for everyone. 
 
-![About Us](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![About Us](https://github.com/deagustinchristian/art-classes/blob/176f1e6faab727d74b860d1fca00d7083f8e0b0b/assets/images/About%20Us.jpeg)
 
 - __Classes & Sign Up section__
 
@@ -35,7 +35,7 @@ Art Classes is a website for anyone interested in either learning how to make be
   - This section will be updated as these times change to keep the user up to date.
   - The Sign Up section is positioned next to the Classes so that the User can fast and easy sign up for which ever class they wish to participate in without having to leave the site or scroll further away to sign up for a class. 
 
-![Classes & Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Classes & Sign Up](https://github.com/deagustinchristian/art-classes/blob/176f1e6faab727d74b860d1fca00d7083f8e0b0b/assets/images/Classes&signup.jpeg)
 
 - __The Footer__ 
 
