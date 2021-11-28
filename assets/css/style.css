@@ -69,10 +69,10 @@ h2 {
 
 /* hero image, main image */
 
-#colorexplosion-image {
+#landingpage-image {
     height: 600px;
     width: 100%;
-    background: url("../images/aboutusbackground.jpeg") no-repeat center center; /* image file was to large so had to resize it to 2500px wide */
+    background: url("../images/landingpage-image.jpeg") no-repeat center center; /* image file was to large so had to resize it to 2500px wide */
     clear: both;
     display: inline-block;
 }
@@ -293,12 +293,41 @@ footer {
 }
 }
 
-/* For medium screen sizes from 510px wide and down */
+/* For medium screen sizes from 570px wide and down */
 
-@media screen and (max-width: 510px) {
-    #colorexplosion-image {
-        width: 140%;
-        
+@media screen and (max-width: 570px) {
+    #about-us, #classes {
+        width: 65%;
+        height: 1300px;
+        margin: 0 auto;
+        padding: 30px 0;
+    }
+
+    .column-signup {
+        padding-top: 20px;
+    }
+    
+    .about {
+        padding: 30px 0;
+        margin: 0;
+    }
+
+    .about-text {
+        width: 100%;
+        float: left;
+        padding: 30px 0;
+    }
+
+    .person {
+        clear: both;
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
+    .person, .person-image, .person-name, .person-description {
+        text-align: center;
+        padding: 5px 0px;
     }
 
     .floating-square1 {
@@ -306,7 +335,71 @@ footer {
         
     }
 
-    .navi-menu {
+    .logo {
+        margin-left: 2px;
+    }
 
+    .menu-right {
+        font-size: 13px;
+        padding-left: 50px;
+    }
+}
+
+/* for small screen sizes 428px wide and down  */
+@media screen and (max-width: 428px) {
+    .logo {
+        padding-right: 25px;
+    }
+
+    .menu-right {
+        font-size: 7px;
+        margin-right: 5px;
+    }
+
+    #landingpage-image, #about-us, #classes {
+        height: 895px;
+        margin: 0 auto;
+        padding: 10px 0;
+    }
+
+    .column-signup {
+        padding-top: 20px;
+    }
+    
+    .about {
+        padding: 30px 0;
+        margin: 0;
+    }
+
+    .about-text {
+        width: 100%;
+        float: left;
+        padding: 30px 0;
+    }
+
+    .person {
+        clear: both;
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
+    .person, .person-image, .person-name, .person-description {
+        text-align: center;
+        padding: 5px 0px;
+    }
+
+    .floating-square1 {
+        width: 300px;
+        
+    }
+
+    .logo {
+        margin-left: 2px;
+    }
+
+    .menu-right {
+        font-size: 13px;
+        padding-left: 50px;
     }
 }
