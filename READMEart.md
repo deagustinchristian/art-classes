@@ -27,7 +27,7 @@ Art Classes is a website for anyone interested in either learning how to make be
   - The About Us section allows the user to briefly get to know each of the teachers and see what their specialties are. 
   - Lovely profile pictures of each teacher along with a small description of each one will leave let the user know that Art Classes has something for everyone. 
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![About Us](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
 - __Classes & Sign Up section__
 
@@ -35,11 +35,11 @@ Art Classes is a website for anyone interested in either learning how to make be
   - This section will be updated as these times change to keep the user up to date.
   - The Sign Up section is positioned next to the Classes so that the User can fast and easy sign up for which ever class they wish to participate in without having to leave the site or scroll further away to sign up for a class. 
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Classes & Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
 
 - __The Footer__ 
 
-  - The footer section contains the Contact Us information alsong side the social media links, this allows for the user to either contact us via email or any of our social media accounts
+  - The footer section contains the Contact Us information along with the social media links, this allows for the user to either contact us via email or any of our social media accounts easily.
   - The footer section includes links to the relevant social media sites for Art Classes. The links will open to a new tab to allow easy navigation for the user. 
 
 
@@ -99,8 +99,14 @@ You can break the credits section up into Content and Media, depending on what y
 
 ### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
+- The text for the Home page was all made up by me.
+- The code in the <head> part I got from following along the Love Running videos.
+- The Glass effect on the text overlay I learned by watching Love running and got the idea of more glass like look from this Instagram account (https://www.instagram.com/p/CV1zwWlFqcs/?utm_medium=share_sheet) 
+
+- Instructions on how to implement form validation on the Sign Up page was taken from Love running videos and from this website (https://www.w3schools.com/howto/howto_css_signup_form.asp)
+
+-  
+
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
