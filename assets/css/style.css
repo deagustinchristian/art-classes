@@ -352,8 +352,9 @@ footer {
     }
 
     .menu-right {
+        font-weight: bolder;
         font-size: 7px;
-        margin-right: 5px;
+        margin-right: 3px;
     }
 
     #landingpage-image, #about-us, #classes {
@@ -390,16 +391,10 @@ footer {
 
     .floating-square1 {
         width: 300px;
-        
     }
 
     .logo {
         margin-left: 2px;
-    }
-
-    .menu-right {
-        font-size: 8px;
-        
     }
 
     footer {
