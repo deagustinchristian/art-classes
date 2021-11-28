@@ -285,4 +285,11 @@ footer {
         text-align: center;
         padding-left: 30px;
     }
+
+    .classes {
+        width: 65%;
+        height: 200px;
+        margin: 0 auto;
+        padding: 30px 0;
+}
 }
