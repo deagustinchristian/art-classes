@@ -332,7 +332,6 @@ footer {
 
     .floating-square1 {
         width: 300px;
-        
     }
 
     .logo {
@@ -346,6 +345,7 @@ footer {
 }
 
 /* for small screen sizes 428px wide and down  */
+
 @media screen and (max-width: 428px) {
     .logo {
         padding-right: 25px;
