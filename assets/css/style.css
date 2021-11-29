@@ -419,7 +419,6 @@ footer {
     .menu-right {
         padding-left: 85px;
     }
-
 }
 
 /* for small screen devices 400px wide and below */
@@ -456,6 +455,5 @@ footer {
 
 #landingpage-image {
     width: 110%;
-}
-
+    }
 }
