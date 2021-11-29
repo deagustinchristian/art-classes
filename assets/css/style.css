@@ -347,13 +347,13 @@ footer {
 
 @media screen and (max-width: 428px) {
     .logo {
-        padding-right: 25px;
+        padding-right: 22px;
     }
 
     .menu-right {
         font-weight: bolder;
         font-size: 7px;
-        padding-left: 56px;
+        padding-left: 87px;
     }
 
     #landingpage-image, #about-us, #classes {
@@ -393,7 +393,7 @@ footer {
     }
 
     .logo {
-        margin-left: 2px;
+        margin-left: 3px;
     }
 
     footer {
