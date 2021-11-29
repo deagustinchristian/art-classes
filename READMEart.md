@@ -2,7 +2,7 @@
 
 Art Classes is a website for anyone interested in either learning how to make beautifull works of art whether it be by paint brush, with their hands molding clay or by using the keyboard on their computer. Art Classes offers something for everyone.
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Looking good on different devices](https://github.com/deagustinchristian/art-classes/blob/59147cf013668a03c7015d8690c92a8fee765e7f/assets/images/Art%20Classes%20different%20devices.jpg)
 
 ## Features 
 
