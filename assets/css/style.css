@@ -152,12 +152,6 @@ section {
     justify-content: space-around;
 }
 
-/* columns */
-
-.column {
-    /* when the rest is in place i try to style it here */
-}
-
 /* Classes table */
 
 table {
@@ -215,6 +209,10 @@ footer {
     margin-top: 20px;
     padding-top: 20px;
     letter-spacing: 1px;
+}
+
+.social-networks a {
+    text-decoration: none;
 }
 
 .social-networks {
@@ -355,7 +353,7 @@ footer {
     .menu-right {
         font-weight: bolder;
         font-size: 7px;
-        padding-left: 78px;
+        padding-left: 55px;
     }
 
     #landingpage-image, #about-us, #classes {
