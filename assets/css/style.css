@@ -85,11 +85,12 @@ h2 {
     text-align: center;
 
     width: 500px;
-    height: 150px;
+    height: 135px;
     margin: 0 auto;
 
-    padding-top: 40px;
+    padding-top: 25px;
     padding-left: 10px;
+    padding-right: 10px;
     margin-top: 250px;
     
     background-color: #ffffff10; /* this code here i got from Baby Wolf Codes on Instagram */
@@ -390,7 +391,7 @@ footer {
     }
 
     .floating-square1 {
-        width: 300px;
+        width: 311px;
     }
 
     .logo {
