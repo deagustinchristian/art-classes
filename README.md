@@ -11,7 +11,7 @@ Art Classes is a website for anyone interested in either learning how to make be
 - __Navigation Bar__
 
   - The full responsive navigation bar directs the user to the About Us section, Classes & Sign Up section and to the Contact Us and social media links section of the website.
-  - This allows the user to navigate the website fast and easy without ever having to leave the website except for the socisl media links, those open in a new tab.
+  - This allows the user to navigate the website fast and easy without ever having to leave the website except for the social media links, those open in a new tab.
   - The logo and navigation menu is fixed so that when you scoll down it stays in place, always visible.
 
 ![Nav Bar](https://github.com/deagustinchristian/art-classes/blob/f61a8e2c163d60a2e39bd1f44e431d63e61a1cfd/assets/images/Nav%20bar%20ART%20CLASSES.jpeg)
@@ -38,7 +38,7 @@ Art Classes is a website for anyone interested in either learning how to make be
   
   - The Sign Up section is positioned next to the Classes so that the User can fast and easy sign up for which ever class they wish to participate in without having to leave the site or scroll further away to sign up for a class.
   
-  - The Sign Up form requires a Name, E-mail address and Class name in order to work, the Sign me Up! button has added hover effect and changes to same color as the navigation menu. 
+  - The Sign Up form requires validation, Name, E-mail address and Class name in order to work, the Sign me Up! button has added hover effect and changes to same color as the navigation menu. 
 
 ![Classes & Sign Up](https://github.com/deagustinchristian/art-classes/blob/176f1e6faab727d74b860d1fca00d7083f8e0b0b/assets/images/Classes&signup.jpeg)
 
