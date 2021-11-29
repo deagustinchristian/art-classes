@@ -45,7 +45,10 @@ Art Classes is a website for anyone interested in either learning how to make be
 - __The Footer__ 
 
   - The footer section contains the Contact Us information along with the social media links, this allows for the user to either contact us via email or any of our social media accounts easily.
+  
   - The footer section includes links to the relevant social media sites for Art Classes. The links will open in a new tab to allow easy navigation for the user. 
+  
+  - Contact Us and the social media icons all have the same color as the navigation menu and Sign Me up! when you hover over those, lightcoral.
 
 
 ![Footer](https://github.com/deagustinchristian/art-classes/blob/103ae5eeed579cc45958d5e890edf0c0be3a1c86/assets/images/footer.jpeg)
