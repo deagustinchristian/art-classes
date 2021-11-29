@@ -306,7 +306,7 @@ footer {
         padding-left: 15%;
     }
 }
-/* For medium screen sizes from 570px wide and down */
+/* For medium screen sizes from 620px wide and down */
 @media screen and (max-width: 620px) {
     #about-us, #classes {
         width: 65%;
@@ -356,7 +356,7 @@ footer {
     }
 }
 
-/* for small screen sizes 428px wide and down  */
+/* for small screen sizes 535px wide and down  */
 @media screen and (max-width: 535px) {
     .logo {
         padding-right: 65px;
@@ -427,17 +427,35 @@ footer {
     .menu-right {
         padding-left: 55px;
     }
-
 }
 
 /* for small screen devices 375px wide and below */
 @media screen and (max-width: 375px) {
     .menu-right {
-        padding-left: 40px;
+        padding-left: 54px;
     }
 
     .logo {
         padding-left: 25px;
     }
+}
+
+/* for small screen devices 325px wide and below */
+@media screen and (max-width: 325px) {
+    .menu-right {
+        padding-left: 56px;
+    }
+
+.menu-right li {
+    margin-right: 20px;
+    }
+
+    .logo {
+        padding-left: 10px;
+    }
+
+#landingpage-image {
+    width: 110%;
+}
 
 }
