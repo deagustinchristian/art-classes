@@ -86,6 +86,7 @@ codes directly, I googled the issue and in a later update they will be adding th
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdeagustinchristian.github.io%2Fart-classes%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
   - Lighthouse
+      (https://github.com/deagustinchristian/art-classes/blob/4e18944f975f14f62debd6d6b68db1228c0c25dc/assets/images/Lighthouse.jpeg)
 
 ### Unfixed Bugs
 
