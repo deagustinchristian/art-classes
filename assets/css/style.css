@@ -273,7 +273,6 @@ footer {
     .navi-menu, .logo {
         clear: left;
         float: left;
-        margin-left: 20px;
         margin-bottom: 20px;
         text-align: center;
     }
@@ -354,7 +353,7 @@ footer {
     .menu-right {
         font-weight: bolder;
         font-size: 7px;
-        padding-left: 72px;
+        padding-left: 56px;
     }
 
     #landingpage-image, #about-us, #classes {
