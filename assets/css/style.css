@@ -33,7 +33,7 @@ h2 {
 /* navigation menu right links */
 
 .menu-right, .logo {
-    line-height: 75px; /* check later how 150px looks */
+    line-height: 50px; /* check later how 150px looks */
 }
 
 .menu-right li {
@@ -353,7 +353,7 @@ footer {
     .menu-right {
         font-weight: bolder;
         font-size: 7px;
-        padding-left: 83px;
+        padding-left: 56px;
     }
 
     #landingpage-image, #about-us, #classes {
@@ -394,6 +394,7 @@ footer {
 
     .logo {
         margin-left: 3px;
+        padding-top: 10px;
     }
 
     footer {
