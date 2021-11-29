@@ -48,7 +48,7 @@ Art Classes is a website for anyone interested in either learning how to make be
   - The footer section includes links to the relevant social media sites for Art Classes. The links will open in a new tab to allow easy navigation for the user. 
 
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](https://github.com/deagustinchristian/art-classes/blob/103ae5eeed579cc45958d5e890edf0c0be3a1c86/assets/images/footer.jpeg)
 
 
 
