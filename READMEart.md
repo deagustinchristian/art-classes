@@ -33,9 +33,12 @@ Art Classes is a website for anyone interested in either learning how to make be
 - __Classes & Sign Up section__
 
   - This section allows for the User to fast and easy see where, when and by who the next classes are 
+  
   - This section will be updated as these times and classes change to keep the user up to date.
+  
   - The Sign Up section is positioned next to the Classes so that the User can fast and easy sign up for which ever class they wish to participate in without having to leave the site or scroll further away to sign up for a class.
-  - The Sign Up for  
+  
+  - The Sign Up form requires a Name, E-mail address and Class name in order to work, the Sign me Up! button has added hover effect and changes to same color as the navigation menu. 
 
 ![Classes & Sign Up](https://github.com/deagustinchristian/art-classes/blob/176f1e6faab727d74b860d1fca00d7083f8e0b0b/assets/images/Classes&signup.jpeg)
 
