@@ -71,7 +71,7 @@ If this section grows too long, you may want to split it off into a separate fil
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdeagustinchristian.github.io%2Fart-classes%2F)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdeagustinchristian.github.io%2Fart-classes%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
@@ -99,7 +99,7 @@ You can break the credits section up into Content and Media, depending on what y
 
 ### Content 
 
-- The text for the Home page was all made up by me.
+- All text on the website was made up by me.
 - The code in the <head> part I got from following along the Love Running videos.
 - The Glass effect on the text overlay I learned by watching Love running and got the idea of more glass like look from this Instagram account (https://www.instagram.com/p/CV1zwWlFqcs/?utm_medium=share_sheet) 
 
