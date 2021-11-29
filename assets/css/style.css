@@ -276,12 +276,16 @@ footer {
         margin-bottom: 20px;
         text-align: center;
     }
+ 
+    .logo {
+        padding-left: 25%;
+    }
 
     .menu-right {
         clear: left;
         float: left;
         text-align: center;
-        padding-left: 30px;
+        padding-left: 23%;
     }
 
     .classes {
@@ -289,12 +293,21 @@ footer {
         height: 200px;
         margin: 0 auto;
         padding: 30px 0;
-}
+    }
 }
 
+/* For medium + screen sizes from 700px wide and down */
+@media screen and (max-width: 700px) {
+    .logo {
+        padding-left: 17%;
+    }
+
+    .menu-right {
+        padding-left: 15%;
+    }
+}
 /* For medium screen sizes from 570px wide and down */
-
-@media screen and (max-width: 570px) {
+@media screen and (max-width: 620px) {
     #about-us, #classes {
         width: 65%;
         height: 1300px;
@@ -334,26 +347,25 @@ footer {
     }
 
     .logo {
-        margin-left: 2px;
+        padding-left: 11%;
     }
 
     .menu-right {
         font-size: 13px;
-        padding-left: 50px;
+        padding-left: 80px;
     }
 }
 
 /* for small screen sizes 428px wide and down  */
-
-@media screen and (max-width: 428px) {
+@media screen and (max-width: 535px) {
     .logo {
-        padding-right: 35px;
+        padding-right: 65px;
     }
 
     .menu-right {
         font-weight: bolder;
         font-size: 7px;
-        padding-left: 55px;
+        padding-left: 125px;
     }
 
     #landingpage-image, #about-us, #classes {
@@ -400,4 +412,32 @@ footer {
     footer {
         padding-top: 30px;
     }
+}
+
+/* for small screen devices 450px wide and below */
+@media screen and (max-width: 450px) {
+    .menu-right {
+        padding-left: 85px;
+    }
+
+}
+
+/* for small screen devices 400px wide and below */
+@media screen and (max-width: 400px) {
+    .menu-right {
+        padding-left: 55px;
+    }
+
+}
+
+/* for small screen devices 375px wide and below */
+@media screen and (max-width: 375px) {
+    .menu-right {
+        padding-left: 40px;
+    }
+
+    .logo {
+        padding-left: 25px;
+    }
+
 }
